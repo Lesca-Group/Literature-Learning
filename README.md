@@ -21,7 +21,7 @@
 - **多模态大模型**
 - **其他文献**
 
-<img src="D:\NLP\微信图片_20240418180346.jpg" alt="微信图片_20240418180346" style="zoom: 50%;" />
+<img src="D:\NLP\lei sha\group\Literature-Learning\LLM_research.jpg" style="zoom:67%;" />
 
 **分享建议** ：在上传时可以把自己想要上传的内容打包成文件夹（name: 文献/项目 名）push在对应的类别中，同时在相应类别内md文件中简要补全分享文献/项目的基本信息（方便其他同学快速定位查阅）：
 
