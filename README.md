@@ -1,8 +1,10 @@
 # Group_文献分享
 
 
-
-[TOC]
+- [Group\_文献分享](#group_文献分享)
+  - [目的](#目的)
+  - [分享指南](#分享指南)
+    - [example：Attention is All you Need](#exampleattention-is-all-you-need)
 
 ## 目的
 
@@ -39,4 +41,4 @@
 
 
 
-**欢迎同学们贡献文献学习项目！**⚒️
+欢迎同学们贡献文献学习项目！⚒️
