@@ -3,12 +3,16 @@
 
 - [Group\_文献分享](#group_文献分享)
   - [目的](#目的)
+  - [研究指南](#研究指南)
   - [分享指南](#分享指南)
 
 ## 目的
 
 集思广益：收集同学们每周的文献分享内容👀  方便组内其他同学学习相应文献与交流
 
+## 研究指南链接
+
+https://wirehaired-bubble-29c.notion.site/Research-Directions-fda6ce934b6c42c78fa445e01494a351 
 
 
 ## 分享指南 
