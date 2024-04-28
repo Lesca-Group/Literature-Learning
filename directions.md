@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" type="text/css" href="custom-styles.css">
 # Research 1：医学常识信息图自动构建
 
 <span style="color:#29261B">构建覆盖全科医学知识的高质量知识图</span>
@@ -18,7 +18,7 @@
   * 可解释性：通过常识图谱对齐，模型掌握了明确的知识结构，其决策过程将更加可解释，符合人类认知模式。
 
 # 研究问题：如何将LLM与图结构知识对齐？
-<div style="background-color: #f0f0f0; border: 2px solid #888; border-radius: 10px; padding: 15px;">
+<div class="colored-box">
 指南1.1：针对大型语言模型(LLM)缺乏结构化知识表示和复杂推理能力的问题，探究将图结构知识与LLM进行对齐和融合的方法，优化LLM在知识密集型任务中的表现；研究基于图神经网络的知识表示学习和推理机制，优化LLM在实体和关系理解、多跳推理方面的能力；构建融合知识图谱信息的语言模型训练范式，并开发知识引导的文本生成和问答系统。
 </div>
 <div style="background-color: #f0f0f0; border: 2px solid #888; border-radius: 10px; padding: 15px;">
